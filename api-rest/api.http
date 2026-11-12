@@ -1,0 +1,25 @@
+Get http://localhost:1234
+
+### ////// get
+Get http://localhost:3000/movies
+
+### ////// get
+Get http://localhost:3000/movies/2
+
+### ////// post
+Get http://localhost:3000/movies?genero=zzz
+
+
+
+
+
+#### ////// post
+Content-Type: application/json
+
+{
+  "nombre": "Ivan express",
+  "edad": 31
+}
+
+#### ////// not found
+Get http://localhost:1234/notfound

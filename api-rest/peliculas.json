@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "titulo": "Interestelar",
+    "genero": "Ciencia ficcion",
+    "anio": 2014,
+    "calificacion": 8.7,
+    "disponible": true
+  },
+  {
+    "id": 2,
+    "titulo": "Coco",
+    "genero": "Animacion",
+    "anio": 2017,
+    "calificacion": 8.4,
+    "disponible": true
+  },
+  {
+    "id": 3,
+    "titulo": "El viaje de Chihiro",
+    "genero": "Fantasia",
+    "anio": 2001,
+    "calificacion": 8.6,
+    "disponible": false
+  },
+  {
+    "id": 4,
+    "titulo": "Matrix",
+    "genero": "Ciencia ficcion",
+    "anio": 1999,
+    "calificacion": 8.7,
+    "disponible": true
+  }
+]
