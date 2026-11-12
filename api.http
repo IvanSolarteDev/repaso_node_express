@@ -1,0 +1,10 @@
+Get http://localhost:1234/json
+
+### ////// post
+POST http://localhost:1234/json
+Content-Type: application/json
+
+{
+  "nombre": "Ivan",
+  "edad": 30
+}
